@@ -8,6 +8,7 @@ import math
 g = 9.81
 pi = 3.142
 
+
 # wave steepness, given height and period
 def steepness_from_ht(h, t):
     """ derive steepness (individual or seastate) from height and period """
