@@ -10,7 +10,7 @@ print(f"Python version: {python_version()}")
 # data input
 H = 5.65
 T = 9.8
-D = 44.0
+D = 22.0
 
 # derive wave steepness (individual or seastate)
 S = md.steepness_from_ht(H, T)
